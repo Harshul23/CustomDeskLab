@@ -32,7 +32,7 @@ CustomDeskLab/
 
 - **`packs/widgets/`**
   - Übersicht widget-only uploads.
-  - Keep each widget in its own folder for easy download and drag-drop install.
+  - Keep each widget in its own folder for easy download and drag-and-drop install.
 
 ## Quick Guide: Using Übersicht Widgets
 

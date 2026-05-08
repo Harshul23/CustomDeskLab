@@ -43,7 +43,7 @@ CustomDeskLab/
 5. Copy the widget folder or `.jsx` file into your Übersicht widgets directory.
 6. Übersicht auto-loads the widget (or refresh from the menu if needed).
 
-## Easy Distribution Tips
+## Contribution
 
 - Keep each setup/widget in its own clearly named folder.
 - Include a preview image when possible.
